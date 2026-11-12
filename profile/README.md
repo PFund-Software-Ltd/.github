@@ -1,4 +1,4 @@
-# PFund
+# PFund (Personal Fund)
 
 **Our mission: democratize AI trading.**
 
