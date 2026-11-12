@@ -1,4 +1,6 @@
-# PFund (Personal Fund)
+# PFund
+
+PFund stands for "Personal Fund".
 
 **Our mission: democratize AI trading.**
 
